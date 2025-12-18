@@ -5,4 +5,17 @@ This project builds a smart bridge between AI tools and microservices using Dapr
 
 If you add a new tool to the MathService (for example, a squareroot endpoint), you only need to do two things: first, add the new business endpoint (like /squareroot) and update the /__tools endpoint in the MathService to describe this new tool (its name, inputs, and purpose). Second, restart the MathService with Dapr and restart the MCP Gateway using dotnet run. After that, the gateway will automatically call the updated /__tools endpoint through Dapr, discover the new squareroot tool, and expose it to the AI. As a result, Claude will immediately see squareroot listed as an available tool and be able to call it—without any changes to the MCP Gateway code or manual tool registration.
 
-https://github.com/EhanAhmed/mcpdapr-latest
+
+
+mcpgateway run command:
+dotnet run
+
+MathService run command:
+dapr run   --app-id math-service   --app-port 5092   --dapr-http-port 3500   dotnet run
+
+dapr port is fixed 3500
+
+
+http://host.docker.internal:5258/
+
+
