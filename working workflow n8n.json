@@ -1,0 +1,188 @@
+{
+  "name": "My workflow 4",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {
+          "responseMode": "responseNodes"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "14c91bc2-e785-4907-acf5-16fe98b41ba8",
+      "name": "When chat message received",
+      "webhookId": "35fcbca4-bce4-4451-a33a-a7ec68bca5ce",
+      "retryOnFail": false
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:5258/",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\n  \"jsonrpc\": \"2.0\",\n  \"id\": 1,\n  \"method\": \"tools/list\"\n}\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        224,
+        0
+      ],
+      "id": "c6382a9d-700e-4b8b-bd7e-b30abb354cbf",
+      "name": "MCP – tools/list"
+    },
+    {
+      "parameters": {
+        "message": "={{ $json.result.message ?? $json.result.result ?? $json.result.value ?? $json.result.utc ?? $json.result }}\n",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chat",
+      "typeVersion": 1,
+      "position": [
+        1104,
+        0
+      ],
+      "id": "44cd7384-3469-45ce-b768-546598215e98",
+      "name": "Respond to Chat"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-4o-mini",
+          "mode": "list",
+          "cachedResultName": "gpt-4o-mini"
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        528,
+        224
+      ],
+      "id": "b84bfedd-ab99-4e9b-a38a-79dc025b75b5",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "1iA0OhTaLqI6VR0A",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('When chat message received').item.json.chatInput }}\n",
+        "options": {
+          "systemMessage": "=Return a native JSON object only. No quotes, no escapes, no markdown, no extra text.\n\nAVAILABLE TOOLS:\n{{ $('MCP – tools/list').item.json.result }}\n\nUSER MESSAGE:\n{{ $('When chat message received').item.json.chatInput }}\n\nINSTRUCTIONS FOR AI AGENT:\n\n1. Only call tools listed in AVAILABLE TOOLS.\n   - Do NOT invent tool names.\n   - Use the tool that best matches the user's request.\n\n2. Map the USER MESSAGE to the tool's arguments:\n   - If a tool requires no arguments, set \"arguments\": {}.\n   - If a tool requires arguments, map each argument correctly from the user message.\n\n3. RETURN a single VALID NATIVE JSON OBJECT (not a string):\n   - Do NOT include extra text, explanations, formatting, quotes around JSON, backslashes, or newlines.\n   - Do NOT output any markdown formatting.\n\n4. The JSON must follow this EXACT STRUCTURE:\n\n{\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2,\n  \"method\": \"tools/call\",\n  \"params\": {\n    \"name\": \"<tool_name>\",\n    \"arguments\": { ... }\n  }\n}\n\n5. EXAMPLES:\n\n- Tool with arguments:\n{\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2,\n  \"method\": \"tools/call\",\n  \"params\": {\n    \"name\": \"sum\",\n    \"arguments\": { \"a\": 3, \"b\": 5 }\n  }\n}\n\n- Tool with NO arguments:\n{\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2,\n  \"method\": \"tools/call\",\n  \"params\": {\n    \"name\": \"time\",\n    \"arguments\": {}\n  }\n}\n\n6. VERY IMPORTANT:\n- Output a JSON object, not a string.\n- Do NOT add any extra text, formatting, or escape sequences like \\n or \\\"\n- The JSON must be parseable directly by n8n.\n- DO NOT wrap the object in an array.\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3,
+      "position": [
+        448,
+        0
+      ],
+      "id": "e6f94899-559a-48a9-b16c-78e49d97397a",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "jsCode": "// 1. Parse AI Agent output safely\nlet output = $json.output;\n\nif (typeof output === 'string') {\n    try {\n        output = JSON.parse(output);\n    } catch (err) {\n        return [{\n            json: {\n                result: {\n                    message: \"Tool does not exist. Please try again.\"\n                }\n            }\n        }];\n    }\n}\n\n// 2. Validate basic MCP structure\nif (\n    typeof output !== 'object' ||\n    output.method !== 'tools/call' ||\n    !output.params ||\n    !output.params.name\n) {\n    return [{\n        json: {\n            result: {\n                message: \"Tool does not exist. Please try again.\"\n            }\n        }\n    }];\n}\n\n// 3. Call MCP safely\nlet response;\ntry {\n    response = await this.helpers.request({\n        method: 'POST',\n        url: 'http://host.docker.internal:5258/',\n        headers: { 'Content-Type': 'application/json' },\n        body: output,\n        json: true,\n    });\n} catch (err) {\n    return [{\n        json: {\n            result: {\n                message: \"Tool does not exist. Please try again.\"\n            }\n        }\n    }];\n}\n\n// 4. Normalize MCP result\nlet result = response?.result;\n\n// If MCP returns nothing or undefined\nif (result === undefined) {\n    return [{\n        json: {\n            result: {\n                message: \"Tool does not exist. Please try again.\"\n            }\n        }\n    }];\n}\n\n// If primitive → wrap\nif (typeof result !== 'object') {\n    result = { value: result };\n}\n\n// 5. Final clean return\nreturn [{\n    json: { result }\n}];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        800,
+        0
+      ],
+      "id": "eedc091e-a202-4dfd-b202-2fb8b57dd272",
+      "name": "Code in JavaScript"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "MCP – tools/list",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "MCP – tools/list": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "Respond to Chat",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "2e9bbf9a-7908-4c2d-8446-0d0a2f83f25c",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "4d37100a36b654efeaf4f99f8369495e1070ca8cb2a0a52895709d4db286b950"
+  },
+  "id": "Xnv3agYhHr28rZAu",
+  "tags": []
+}
