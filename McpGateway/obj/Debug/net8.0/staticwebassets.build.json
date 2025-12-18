@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "72SzM6T9PEJuqEy/hLgvDva8ZpN7RnyKTF2iWBWF+O8=",
+  "Source": "McpGateway",
+  "BasePath": "_content/McpGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

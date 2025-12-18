@@ -1,0 +1,101 @@
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/MathService
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/MathService.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/MathService.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets/msbuild.MathService.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets/msbuild.build.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/scopedcss/bundle/MathService.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.csproj.CopyComplete
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/refint/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/ref/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/MathService
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/MathService.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/MathService.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.csproj.AssemblyReference.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets/msbuild.MathService.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets/msbuild.build.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/scopedcss/bundle/MathService.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.csproj.CopyComplete
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/refint/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/MathService.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/MathService/obj/Debug/net8.0/ref/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/MathService
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/MathService.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/MathService.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.csproj.AssemblyReference.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets/msbuild.MathService.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets/msbuild.build.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MathService.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/scopedcss/bundle/MathService.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.csproj.CopyComplete
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/refint/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/MathService.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/MathService/obj/Debug/net8.0/ref/MathService.dll

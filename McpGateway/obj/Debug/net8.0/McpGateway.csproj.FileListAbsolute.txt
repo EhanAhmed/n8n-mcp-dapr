@@ -1,0 +1,105 @@
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.McpGateway.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.build.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/scopedcss/bundle/McpGateway.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/refint/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/ref/McpGateway.dll
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/appsettings.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.staticwebassets.endpoints.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.exe
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.deps.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.runtimeconfig.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.dll
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/bin/Debug/net8.0/McpGateway.pdb
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfoInputs.cache
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfo.cs
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.csproj.CoreCompileInputs.cache
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/scopedcss/bundle/McpGateway.styles.css
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.dll
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/refint/McpGateway.dll
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.pdb
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.genruntimeconfig.cache
+C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/ref/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/McpGateway
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/McpGateway.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/McpGateway.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/bin/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.McpGateway.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.build.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/scopedcss/bundle/McpGateway.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/refint/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/McpGateway.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/Concept_TestingWithClaude/McpGateway/obj/Debug/net8.0/ref/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/appsettings.Development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/appsettings.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/McpGateway
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/McpGateway.deps.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/McpGateway.runtimeconfig.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/bin/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfoInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.AssemblyInfo.cs
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.sourcelink.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.McpGateway.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.build.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.McpGateway.props
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/scopedcss/bundle/McpGateway.styles.css
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/refint/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.pdb
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/McpGateway.genruntimeconfig.cache
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept_adapter_n8n/McpGateway/obj/Debug/net8.0/ref/McpGateway.dll
